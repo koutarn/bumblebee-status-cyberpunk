@@ -15,7 +15,7 @@ bar {
 	status_command $(BUMBLEBEE_STATUS_BASE_DIR) \
         -m you are settings \
         -p you are settings \
-        **-t cyberpunk**
+        -t cyberpunk
 }
 ```
 Then edit ~/.config/i3/config

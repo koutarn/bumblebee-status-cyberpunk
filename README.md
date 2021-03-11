@@ -1,3 +1,5 @@
+![ScreenShot](./SS/ss.png)
+
 ## ABOUT
 This is a cyberpunk-inspired color scheme for bumblebee-status.
 

@@ -1,7 +1,7 @@
-![ScreenShot](./SS/ss.png)
-
 ## ABOUT
-This is a cyberpunk-inspired color scheme for bumblebee-status.
+![ScreenShot](./screenshots/ss.png)
+
+This is a cyberpunk-inspired theme for [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status).
 
 ## USAGE
 

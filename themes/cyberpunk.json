@@ -1,9 +1,7 @@
 {
 	"icons": [ "awesome-fonts"],
 	"defaults": {
-		"default-separators": false,
-		"separator": "",
-		"separator-block-width": 1,
+		"separator-block-width": 0,
 		"warning": {
 			"fg": "#282A36",
 			"bg": "#9932cc"
@@ -15,7 +13,6 @@
 	},
 	"cycle": [
 		{"fg": "#ff69b4", "bg": "#04043b"},
-
 		{"fg": "#05d9e8", "bg": "#01012b"}
 	]
 }
